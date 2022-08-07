@@ -12,7 +12,7 @@
 
 https://github.com/Sathyatechtamil/is licensed under the
 
-
+GNU general licesence
 
 A permissive license whose main conditions require preservation of copyright and license notices.
 
