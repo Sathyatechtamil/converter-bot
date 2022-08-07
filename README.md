@@ -10,9 +10,9 @@
 
 ````
 
-lntechnical2/RENAMER_BOT is licensed under the
+https://github.com/Sathyatechtamil/is licensed under the
 
-Apache License 2.0
+
 
 A permissive license whose main conditions require preservation of copyright and license notices.
 
@@ -32,7 +32,7 @@ and larger works may be distributed under different terms and without source cod
 
   </a>
 
-<a href="https://youtube.com/c/LNtechnical">
+<a href="https://youtube.com/c/sathyatechtamil">
 
    <p> YouTube </p>
 
